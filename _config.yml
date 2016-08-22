@@ -1,0 +1,14 @@
+layout_spectrum: 0.10770256374962628
+typography_spectrum: 0.9258097282145172
+color:
+  brandStrength: 0.14067462156526744
+  lightness: 0.548807313432917
+  saturation: 0.8595713719259948
+  rhythmicContrast: 0.9836171953938901
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: KreativeWorks
